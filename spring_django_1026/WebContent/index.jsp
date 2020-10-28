@@ -12,7 +12,7 @@
 	<li><a href="jsonpTest1">jsonTest</a></li>
 	<li><a href="jsonpTest2">jsonListTest</a></li>
 	<li><a href="jsonpTest3?callback">jsonListTest3</a></li>
-	
+	<li><a href="login">login</a></li>
 	¾È³ç ¤¾¤¾???
 	
 	¾È³ç Çª½Ã°í¸¶¿ö~

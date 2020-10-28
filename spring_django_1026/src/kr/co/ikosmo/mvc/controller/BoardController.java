@@ -22,4 +22,9 @@ public class BoardController {
 		m.addAttribute("listv",listv);
 		return "boardList";
 	}
+	
+	@GetMapping(value = "/login")
+	public String login(Model m) {
+		return "login";
+	}
 }
